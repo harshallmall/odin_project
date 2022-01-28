@@ -1,4 +1,4 @@
-# Odin Recipes Project
+# Recipes Project
 
 ## Project Purpose
 - Create basic HTML website that lists various recipes.
