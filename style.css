@@ -1,0 +1,18 @@
+img {
+    height: auto;
+    width: 300px;
+}
+
+a {
+    color: white;
+    background-color: purple;
+}
+
+p.li {
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: lime;
+    background-color: black;
+    text-align: justify;
+}
