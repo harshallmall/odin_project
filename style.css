@@ -1,18 +1,22 @@
+body {
+    background-color: black;
+    color: limegreen;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: justify;
+}
+
 img {
     height: auto;
-    width: 300px;
+    width: 400px;
 }
 
 a {
-    color: white;
-    background-color: purple;
-}
-
-p.li {
-    font-size: 16px;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
-    color: lime;
     background-color: black;
+    color: blueviolet;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
     text-align: justify;
 }
